@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "DataChain\\" : "src/DataChain/"
+            "KLC\\" : "src/"
         }
     }
 }

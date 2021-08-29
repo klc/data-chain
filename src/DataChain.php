@@ -1,5 +1,7 @@
 <?php
 
+namespace KLC;
+
 abstract class DataChain
 {
     /** @var $next DataChain */
