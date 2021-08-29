@@ -1,0 +1,16 @@
+{
+    "name": "klc/data-chain",
+    "description": "php data chain package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mustafa Kılıç",
+            "email": "m_kilic@outlook.com.tr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php" : ">=7.4"
+    }
+}
